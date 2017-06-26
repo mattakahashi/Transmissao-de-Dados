@@ -8,7 +8,7 @@ import logging
 from time import gmtime, strftime, localtime
 
 host = "127.0.0.1"
-porta_bind = 12347
+porta_bind = 8080
 tamanho_max_buffer = 8192
 delay = 5
 Arquivo_Log = 'Logs.txt'
